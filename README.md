@@ -1,6 +1,6 @@
 # 🚀 My Awesome Project
 
-![Project Banner](https://raw.githubusercontent.com/username/reponame/main/banner.png)
+![Project Banner](https://github.com/Mas-Jawa/Insta/blob/main/165239.jpg)
 
 📢 **Deskripsi Singkat**  
 Project ini adalah implementasi dari **Python Automation** untuk berbagai keperluan, seperti mengaktifkan **2FA Instagram**, scraping data, dan lainnya.
@@ -8,7 +8,7 @@ Project ini adalah implementasi dari **Python Automation** untuk berbagai keperl
 ---
 
 ## 📌 **Fitur Utama**
-✔️ **Aktifkan A2F Instagram otomatis**  
+✔️ **Instagram BruteForec**  
 ✔️ **Generate Secret Key & Recovery Code**  
 ✔️ **Otomatis input OTP**  
 ✔️ **Mudah digunakan!**  
