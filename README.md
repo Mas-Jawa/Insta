@@ -17,15 +17,17 @@ Project ini adalah implementasi dari **Python Automation** untuk berbagai keperl
 
 ## 📸 **Tampilan Script**
 ### 🔹 **Running di Terminal**  
-![Tampilan Script](https://raw.githubusercontent.com/username/reponame/main/screenshot.png)
+![Tampilan Script](https://github.com/Mas-Jawa/Insta/blob/main/Screenshot%20(504).png)
 
-### 🔹 **Tampilan UI (Jika Ada)**  
-![Tampilan UI](https://raw.githubusercontent.com/username/reponame/main/ui.png)
-
----
+### 🔹 **Fendi Ganteng**  
+Kasih bintang aja,kalau enggak bakal males update tools.
 
 ## 🔧 **Instalasi**
-### 1️⃣ **Clone Repo**
-```bash
-git clone https://github.com/username/reponame.git
-cd reponame
+
+apt update
+apt upgrade
+pkg install python3
+pkg install pip
+git clone https://github.com/Mas-Jawa/Insta
+cd Insta
+python run.py
