@@ -551,7 +551,6 @@ class Brute:
 
     def dump_acc(self, cokie, users, type, max_id):
         xnxx = 'followers' if type is True else 'following'
-        self.Uasu()
         for user in users:
             try:
                 self.param.update({'max_id':max_id})
